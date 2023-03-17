@@ -6,4 +6,4 @@ Ponownie sprawdzam w jaki sposób zostanie przeprowadzony commit
 
 Trzecia zmiana z main
 
-Ostatni raz sprawdzam działanie push
+Ostatni raz sprawdzam działanie push !
