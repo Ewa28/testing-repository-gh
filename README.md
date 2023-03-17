@@ -9,3 +9,5 @@ Trzecia zmiana z main
 Ostatni raz sprawdzam działanie push !
 
 Zmiana dokonywana w first branch
+
+Second branch
