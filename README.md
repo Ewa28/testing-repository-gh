@@ -7,3 +7,5 @@ Ponownie sprawdzam w jaki sposób zostanie przeprowadzony commit
 Trzecia zmiana z main
 
 Ostatni raz sprawdzam działanie push !
+
+Zmiana dokonywana w first branch
